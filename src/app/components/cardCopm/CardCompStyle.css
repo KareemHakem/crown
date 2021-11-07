@@ -1,0 +1,14 @@
+.item-cards{
+  margin-top: 10px;
+  margin-left: 30px;
+  width: 27%;
+  cursor: pointer;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.item-imgs{
+  height: 350px;
+  margin-right: 20px !important;
+  width: 100%;
+  object-fit: cover;
+}

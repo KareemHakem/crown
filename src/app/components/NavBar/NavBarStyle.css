@@ -1,0 +1,23 @@
+.navbar {
+  height: 70px;
+  width: 95%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 2.5%;
+  margin-top: 25px;
+}
+
+.links {
+  margin-right: 5px;
+  align-items: center;
+}
+
+.link {
+  margin-right: 30px;
+  text-decoration: none;
+  font-size: large;
+  font-weight: 100;
+  font-family: "Open Sans Condensed", sans-serif;
+  color: #000;
+}
